@@ -79,7 +79,13 @@ I'm an indie front-end developer who loves learning more about coding and the so
 
   <!-- https://github.com/yahyabenjdy/github-readme-stats -->
 
-  <a href="https://github.com/yahyabenjdy/github-readme-stats"><img alt="yahyabenjdy's Github Stats" src="https://yahyabenjdy-github-readme-stats.vercel.app/api/?username=yahyabenjdy1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+  
   <a href="https://github.com/yahyabenjdy/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyabenjdy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 
