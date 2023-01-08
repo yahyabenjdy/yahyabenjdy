@@ -74,16 +74,14 @@ I'm an indie front-end developer who loves learning more about coding and the so
 
   <a href="https://github.com/yahyabenjdy/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=yahyabenjdy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-    <h3>⚡ Recent GitHub Activity</h3>
+### :zap: Recent GitHhub Activity
 
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#938](https://github.com/python-babel/babel/issues/938) in [python-babel/babel](https://github.com/python-babel/babel)
-2. 🎉 Merged PR [#410](https://github.com/DenverCoder1/github-readme-streak-stats/pull/410) in [yahyabenjdy/github-readme-streak-stats](https://github.com/yahyabenjdy/github-readme-streak-stats)
-3. 💪 Opened PR [#410](https://github.com/DenverCoder1/github-readme-streak-stats/pull/410) in [yahyabenjdy/github-readme-streak-stats](https://github.com/yahyabenjdy/github-readme-streak-stats)
-4. 🎉 Merged PR [#409](https://github.com/DenverCoder1/github-readme-streak-stats/pull/409) in [yahyabenjdy/github-readme-streak-stats](https://github.com/yahyabenjdy/github-readme-streak-stats)
-5. 💪 Opened PR [#409](https://github.com/DenverCoder1/github-readme-streak-stats/pull/409) in [yahyabenjdy/github-readme-streak-stats](https://github.com/yahyabenjdy/github-readme-streak-stats)
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#9962](https://github.com/nuxt/framework/pull/9962) in [nuxt/framework](https://github.com/nuxt/framework)
+2. 🗣 Commented on [#9946](https://github.com/nuxt/framework/issues/9946) in [nuxt/framework](https://github.com/nuxt/framework)
+3. 💪 Opened PR [#9946](https://github.com/nuxt/framework/pull/9946) in [nuxt/framework](https://github.com/nuxt/framework)
+4. 🗣 Commented on [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+5. 🗣 Commented on [#1033](https://github.com/t3-oss/create-t3-app/issues/1033) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
 <!--END_SECTION:activity-->
 
 </details>
