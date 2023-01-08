@@ -1,4 +1,4 @@
-# 👨‍💻 Yahya Benjdy
+# 🏄 Yahya Benjdy
 
 **`Junior Front-End Web Developer`**
 
