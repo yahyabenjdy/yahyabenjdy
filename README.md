@@ -74,5 +74,16 @@ I'm an indie front-end developer who loves learning more about coding and the so
 
   <a href="https://github.com/yahyabenjdy/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=yahyabenjdy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+    <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
+1. 🗣 Commented on [#938](https://github.com/python-babel/babel/issues/938) in [python-babel/babel](https://github.com/python-babel/babel)
+2. 🎉 Merged PR [#410](https://github.com/DenverCoder1/github-readme-streak-stats/pull/410) in [yahyabenjdy/github-readme-streak-stats](https://github.com/yahyabenjdy/github-readme-streak-stats)
+3. 💪 Opened PR [#410](https://github.com/DenverCoder1/github-readme-streak-stats/pull/410) in [yahyabenjdy/github-readme-streak-stats](https://github.com/yahyabenjdy/github-readme-streak-stats)
+4. 🎉 Merged PR [#409](https://github.com/DenverCoder1/github-readme-streak-stats/pull/409) in [yahyabenjdy/github-readme-streak-stats](https://github.com/yahyabenjdy/github-readme-streak-stats)
+5. 💪 Opened PR [#409](https://github.com/DenverCoder1/github-readme-streak-stats/pull/409) in [yahyabenjdy/github-readme-streak-stats](https://github.com/yahyabenjdy/github-readme-streak-stats)
+<!--END_SECTION:activity-->
 
 </details>
