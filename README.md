@@ -23,8 +23,6 @@ I'm an indie front-end developer who loves learning more about coding and the so
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   </p>
 
