@@ -4,6 +4,8 @@
 
 I'm an indie front-end developer who loves learning more about coding and the software world.
 
+📫 How to reach me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yahyabenjdy) 
 
 ---
